@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ChatClient-1" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ru.geekbrains.chat.client.Program" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
